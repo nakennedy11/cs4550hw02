@@ -1,0 +1,26 @@
+table {
+    border: 2px solid black;
+}
+
+th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 3px;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+#screen {
+    maxlength: 40;
+    height: 25px;
+    width: 152px;
+    text-align: right;
+    border: 2px solid black;
+}
+
+.btn {
+    height: 100%;
+    width: 100%;
+}
